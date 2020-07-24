@@ -1,2 +1,2 @@
 # snake-game
-made with python =)
+made with python 
